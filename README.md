@@ -37,11 +37,11 @@
   </a>
 </p>
 
-<div style="background-color: rgb(13, 17, 23);
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdan9876&show_icons=true&locale=en&layout=compact" alt="bogdan9876" /></p>
-</div>
-
-<div style="background-color: rgb(13, 17, 23);
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdan9876&show_icons=true&locale=en" alt="bogdan9876" /></p>
-</div>
+<div style="background-color: rgb(13, 17, 23); padding: 10px;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdan9876&show_icons=true&locale=en&layout=compact" alt="bogdan9876" /></p>
+  </div>
+  
+  <div style="background-color: rgb(13, 17, 23); padding: 10px;">
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdan9876&show_icons=true&locale=en" alt="bogdan9876" /></p>
+  </div>
 
