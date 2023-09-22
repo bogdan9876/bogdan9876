@@ -1,4 +1,4 @@
-<div style="background-color: rgb(13, 17, 23); padding: 20px;">
+<div style="background-color: rgb(13, 17, 23);">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
