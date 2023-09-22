@@ -1,3 +1,4 @@
+<div style="background-color: rgb(13, 17, 23); padding: 20px;">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -41,8 +42,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdan9876&show_icons=true&locale=en&layout=compact" alt="bogdan9876" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdan9876&show_icons=true&locale=en" alt="bogdan9876" /></p>
-<style>
-  body {
-    background-color: rgb(13, 17, 23);
-  }
-</style>
+</div>
