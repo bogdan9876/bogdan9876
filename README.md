@@ -6,7 +6,7 @@
 
 <!--- - 👨‍💻 All of my projects are available at [](https://github.com/bogdan9876?tab=repositories) -->
 
-- 💬 Ask me about **react, spring, postgresql, flask, docker, aws**
+- 💬 Ask me about **react, spring, postgresql, node js, docker, aws**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 <h3 align="left">Frameworks and Libraries:</h3>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" /> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="flask" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
 <h3 align="left">Databases:</h3>
